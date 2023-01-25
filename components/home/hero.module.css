@@ -1,0 +1,9 @@
+.hero {
+    display:flex;
+}
+
+.hero img { 
+    width:100%;
+    height:auto;
+    max-height:540px;
+}
